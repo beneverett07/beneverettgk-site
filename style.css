@@ -105,7 +105,7 @@ h2 {
 }
 
 /* Profile Layout */
-.container {
+.cv-container {
   max-width: 1000px;
   margin: auto;
   display: flex;
@@ -185,7 +185,7 @@ footer {
   }
 }
 @media (max-width: 600px) {
-  .container {
+  .cv-container {
     flex-direction: column;
     padding: 20px;
   }
